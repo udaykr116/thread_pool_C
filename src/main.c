@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-#include "threadpool.h"
+#include "../inc/threadpool.h"
 
 void example_task(void *arg)
 {
